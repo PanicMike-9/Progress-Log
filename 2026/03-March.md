@@ -6,7 +6,7 @@ Created, progress log repository to make sure on low effort days I don't lose my
 
 12 March - add palette struct, palette enum class, create multiple different color palette and try them, in fractal generator 
 
-13 March - configuring neovim today, adding key mappings and a few other related things
+13 March - configuring neovim today, adding key mappings and a few other related things and learned a few new vim commands
 
 14 March - configured LSP, added lualine for neovim, added JetBrainsMono Nerd font, added telescope.nvim for file explorer in neovim, added key mappings for it
 
