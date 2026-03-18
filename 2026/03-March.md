@@ -11,3 +11,5 @@ Created, progress log repository to make sure on low effort days I don't lose my
 14 March - configured LSP, added lualine for neovim, added JetBrainsMono Nerd font, added telescope.nvim for file explorer in neovim, added key mappings for it
 
 15 March - nothing much today, wasted a lot of time on rainbow-delimiters and it's not working either
+
+18 March - added rotate function for vector2.hpp class, started using C++20 from C++17
