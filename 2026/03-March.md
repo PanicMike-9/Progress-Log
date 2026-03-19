@@ -1,3 +1,4 @@
+
 10 March - Add the C++ dynamic logo in my README.md profile 
 Created, progress log repository to make sure on low effort days I don't lose my contribution streak! 😉
 , configured neovim, added tree-sitter and debugged
@@ -13,3 +14,5 @@ Created, progress log repository to make sure on low effort days I don't lose my
 15 March - nothing much today, wasted a lot of time on rainbow-delimiters and it's not working either
 
 18 March - added rotate function for vector2.hpp class, started using C++20 from C++17
+
+19 March - learning about SFML, some graphics related work and sf::vector2f in SFML
