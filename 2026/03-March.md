@@ -16,3 +16,5 @@ Created, progress log repository to make sure on low effort days I don't lose my
 18 March - added rotate function for vector2.hpp class, started using C++20 from C++17
 
 19 March - learning about SFML, some graphics related work and sf::vector2f in SFML
+
+22 March - read the code of inkscape on gitlabs, started working on Conway's game of life in code, haven't really worked on SFML related 
