@@ -18,3 +18,5 @@ Created, progress log repository to make sure on low effort days I don't lose my
 19 March - learning about SFML, some graphics related work and sf::vector2f in SFML
 
 22 March - read the code of inkscape on gitlabs, started working on Conway's game of life in code, haven't really worked on SFML related 
+
+24 March - studied about lexer, compiled some C++ code into byte code using clang++, copied a 3d donut ascii code in C, started reading the Dragon book
