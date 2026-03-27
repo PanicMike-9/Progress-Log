@@ -22,3 +22,5 @@ Created, progress log repository to make sure on low effort days I don't lose my
 24 March - studied about lexer, compiled some C++ code into byte code using clang++, copied a 3d donut ascii code in C, started reading the Dragon book
 
 25 March - studied encapsulation, compilers, 3d matrix, how to find 2x2 matrix determinants, cleaned the laptop vents and did some dusting and now it's looking much better
+
+27 March - did some updates to the readme to make it look pretty, projects... I couldn't foucs on them at all, I am very numb. 
