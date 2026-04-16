@@ -4,4 +4,4 @@
 
 14 April - configured vim extension for vs code, got started with OpenGL, like GLFW and GLAD
 
-16 April - learning OpenGL Hello triangle and working on SFML Conway's game of life 
+16 April - learning OpenGL Hello triangle, changed color and working on multiple color triangle
