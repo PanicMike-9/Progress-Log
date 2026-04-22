@@ -9,3 +9,4 @@
 19 April - will work on OpenGL shader class, tiny interpreter and linear algebra 
 
 22 April - worked on parser.cpp in tiny interpreter, and started writing the shader class for OpenGL, installed git bash and setting it default terminal for vs code
+update - there's no electricity for almost 4hrs now. 
