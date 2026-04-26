@@ -10,3 +10,5 @@
 
 22 April - worked on parser.cpp in tiny interpreter, and started writing the shader class for OpenGL, installed git bash and setting it default terminal for vs code
 update - there's no electricity for almost 4hrs now. 
+
+25 April - working on custom shader class in OpenGL and precedence for tiny interpreter 
