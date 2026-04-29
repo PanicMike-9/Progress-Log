@@ -14,3 +14,5 @@ update - there's no electricity for almost 4hrs now.
 25 April - working on custom shader class in OpenGL and precedence for tiny interpreter 
 
 28 April - started studying basic arithmetic and algebra along side linear algebra and working on OpenGL
+
+29 April - git contributions are not being counted but the code is updated
