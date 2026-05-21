@@ -5,3 +5,5 @@
 12 May - studying continuity in Calculus 
 
 14 May - studying limits and graphs in calculus and some leetcode
+
+21 May - studying geometry, calculus and started working on 3dViewer project in OpenGL 
