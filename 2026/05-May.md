@@ -6,4 +6,6 @@
 
 14 May - studying limits and graphs in calculus and some leetcode
 
-21 May - studying geometry, calculus and started working on 3dViewer project in OpenGL 
+21 May - studying geometry, calculus and started working on 3dViewer project in OpenGL
+
+31 May - working on fixing EBO and black screen in 3dViewer OpenGL project and studying calculus. 
